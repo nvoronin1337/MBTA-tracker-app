@@ -1,0 +1,161 @@
+{
+  "data": [{
+    "attributes": {
+      "arrival_time": "2018-12-05T23:37:24-05:00",
+      "departure_time": "2018-12-05T23:38:12-05:00",
+      "direction_id": 0,
+      "schedule_relationship": null,
+      "status": null,
+      "stop_sequence": 50
+    },
+    "id": "prediction-37940182-70028-50",
+    "relationships": {
+      "route": {
+        "data": {
+          "id": "Orange",
+          "type": "route"
+        }
+      },
+      "stop": {
+        "data": {
+          "id": "70028",
+          "type": "stop"
+        }
+      },
+      "trip": {
+        "data": {
+          "id": "37940182",
+          "type": "trip"
+        }
+      }
+    },
+    "type": "prediction"
+  }, {
+    "attributes": {
+      "arrival_time": "2018-12-05T23:47:54-05:00",
+      "departure_time": "2018-12-05T23:48:42-05:00",
+      "direction_id": 0,
+      "schedule_relationship": null,
+      "status": null,
+      "stop_sequence": 50
+    },
+    "id": "prediction-37940181-70028-50",
+    "relationships": {
+      "route": {
+        "data": {
+          "id": "Orange",
+          "type": "route"
+        }
+      },
+      "stop": {
+        "data": {
+          "id": "70028",
+          "type": "stop"
+        }
+      },
+      "trip": {
+        "data": {
+          "id": "37940181",
+          "type": "trip"
+        }
+      }
+    },
+    "type": "prediction"
+  }, {
+    "attributes": {
+      "arrival_time": "2018-12-05T23:57:14-05:00",
+      "departure_time": "2018-12-05T23:58:02-05:00",
+      "direction_id": 0,
+      "schedule_relationship": null,
+      "status": null,
+      "stop_sequence": 50
+    },
+    "id": "prediction-37940180-70028-50",
+    "relationships": {
+      "route": {
+        "data": {
+          "id": "Orange",
+          "type": "route"
+        }
+      },
+      "stop": {
+        "data": {
+          "id": "70028",
+          "type": "stop"
+        }
+      },
+      "trip": {
+        "data": {
+          "id": "37940180",
+          "type": "trip"
+        }
+      }
+    },
+    "type": "prediction"
+  }, {
+    "attributes": {
+      "arrival_time": "2018-12-06T00:10:53-05:00",
+      "departure_time": "2018-12-06T00:11:41-05:00",
+      "direction_id": 0,
+      "schedule_relationship": null,
+      "status": null,
+      "stop_sequence": 50
+    },
+    "id": "prediction-37940087-70028-50",
+    "relationships": {
+      "route": {
+        "data": {
+          "id": "Orange",
+          "type": "route"
+        }
+      },
+      "stop": {
+        "data": {
+          "id": "70028",
+          "type": "stop"
+        }
+      },
+      "trip": {
+        "data": {
+          "id": "37940087",
+          "type": "trip"
+        }
+      }
+    },
+    "type": "prediction"
+  }, {
+    "attributes": {
+      "arrival_time": "2018-12-06T00:22:25-05:00",
+      "departure_time": "2018-12-06T00:23:13-05:00",
+      "direction_id": 0,
+      "schedule_relationship": null,
+      "status": null,
+      "stop_sequence": 50
+    },
+    "id": "prediction-37940108-70028-50",
+    "relationships": {
+      "route": {
+        "data": {
+          "id": "Orange",
+          "type": "route"
+        }
+      },
+      "stop": {
+        "data": {
+          "id": "70028",
+          "type": "stop"
+        }
+      },
+      "trip": {
+        "data": {
+          "id": "37940108",
+          "type": "trip"
+        }
+      }
+    },
+    "type": "prediction"
+  }],
+  "jsonapi": {
+    "version": "1.0"
+  }
+}
